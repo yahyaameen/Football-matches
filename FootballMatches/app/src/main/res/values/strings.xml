@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FootballMatches</string>
+    <string name="delete">choose match to delete</string>
+    <string name="update">choose match to update</string>
+</resources>
